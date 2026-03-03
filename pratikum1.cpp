@@ -2,7 +2,7 @@
 using namespace std;
 
 //deklarasi global
-    float p,l;
+     float p,l;
  
 //implementasi
 void input(){
@@ -28,4 +28,5 @@ int main()
 
 
 }//selesai
+
 
