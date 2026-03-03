@@ -13,7 +13,7 @@ void input(){
 }
 
 float luaspersegi(){
-    return p*l;
+return p*l;
 }
 
 
@@ -25,5 +25,6 @@ int main()
 {
     input();
     output();
+
 
 }//selesai
