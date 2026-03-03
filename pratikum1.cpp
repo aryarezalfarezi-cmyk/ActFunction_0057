@@ -5,7 +5,7 @@ using namespace std;
      float p,l;
  
 //implementasi
- void input(){
+void input(){
     cout << "Masukan Panjang : ";
     cin >> p;
     cout << "Masukan Lebar : " ;
@@ -28,6 +28,7 @@ int main()
 
 
 }//selesai
+
 
 
 
